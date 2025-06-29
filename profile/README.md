@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/5ff77e8a-d12f-47fb-93d6-f930b80f4041)![image](https://github.com/user-attachments/assets/9bf225ef-9e39-4f4a-b5c7-974495589dd5)# PhotoRec File Recovery Utility
-
 PhotoRec is a powerful file recovery tool that restores lost files from damaged, corrupted, or formatted storage media. Designed to bypass broken file systems, it recovers a wide range of file types from hard drives, memory cards, USB drives, and other devices.
 
 [![Download](https://img.shields.io/badge/Download-PhotoRec_Recovery_Tool-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
